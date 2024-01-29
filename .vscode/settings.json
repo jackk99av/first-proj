@@ -1,0 +1,5 @@
+{
+  "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+  "github.copilot.chat.welcomeMessage": "always",
+  "prettier.insertPragma": true
+}

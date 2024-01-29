@@ -1,0 +1,67 @@
+#body{
+  text-transform: none;
+  background: linear-gradient( #c49595,#f6f1d3, #648880 85%, #293f50 );
+}
+
+.header{
+  font-size: xx-large;
+  border: 1px;
+  background-color: dodgerblue;
+  border: 1.2em;
+  padding: 3px;
+}
+
+.btn{
+  background-color: #0766ad;
+  border-spacing: 2px;
+  margin-top: 10px;
+  margin-left: 10px;
+  position: absolute;
+  height: 20px;
+  width: 50px;
+  
+}
+
+
+.h1{
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.p1{
+  text-decoration: none;
+  
+  padding: 20px;
+}
+
+.h3{
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.h4{
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.h5{
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.main{
+  font-size: large;
+  background-color: rgb(214, 158, 228);
+}
+#about-us{
+  padding: 10px;
+}
+.h2{
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.footer{
+  background-color: gainsboro;
+}
